@@ -1,2 +1,2 @@
-class EmailadressParser
+class EmailAddressParser
   attr_accessor
