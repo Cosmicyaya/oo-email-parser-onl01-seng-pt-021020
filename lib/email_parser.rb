@@ -5,4 +5,4 @@ class EmailParser
     @email = emails
   end
   def parse
-    @parse = (parse)
+    email_Array
