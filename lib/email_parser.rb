@@ -1,3 +1,4 @@
 class EmailParser
-end
+  attr_accessor :email
+  @email = email
 end
